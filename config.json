@@ -121,7 +121,7 @@
         "log_step_interval": 10,
         "val_step_interval": 50,
 
-        "save_dir": "saved/",
+        "save_dir": "/content/gdrive/MyDrive/training_dataset/saved/",
         "save_period": 20,
         "log_verbosity": 2,
 
